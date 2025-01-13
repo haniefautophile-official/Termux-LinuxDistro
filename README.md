@@ -20,6 +20,7 @@
 => cd
 => pwd
 => su root (Masukan password yang sudah di buat)
+=> apt update && apt upgrade -y
 => apt install nano neofetch sudo -y
 => visudo (Cari tulisan root ALL=(ALL:ALL) ALL)
 => Lalu tambahkan di bawahnya dengan => autophile ALL=(ALL:ALL) ALL
