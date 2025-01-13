@@ -5,16 +5,7 @@
 > Command install tools
   
 ```bash
-=> apt-get update
-=> apt-get upgrade
-=> pkg install git
-=> pkg install proot-distro
-=> pkg install git
-=> git clone https://github.com/Linux-Distro
-=> cd LinuxDistro
-=> bash run.sh
-=> cd proot-distro
-=> ./install.sh
+=> git clone https://github.com/haniefautophile-official/termux-LinuxDistro.git
 => proot-distro install ubuntu
 => proot-distro login ubuntu
 => passwd root
