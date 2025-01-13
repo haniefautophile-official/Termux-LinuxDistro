@@ -50,8 +50,7 @@
 => Untuk masuk ke user anda ketik su autophile Enter
 
 ```
-> proot-distro install ubuntu = Anda bisa menginstall linux distro yang lain dan ini daftar linux yang ada di dalam script:<br>
-> Available distributions in format proot-distro alias : description:<br>
+> proot-distro install ubuntu = Anda bisa menginstall linux distro yang lain dan ini daftar linux yang tersedia:<br>
 
 > alpine: Alpine Linux (edge)<br>
 > archlinux: Arch Linux / Arch Linux 32 / Arch Linux ARM<br>
