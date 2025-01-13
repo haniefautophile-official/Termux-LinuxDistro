@@ -5,7 +5,10 @@
 > Command install tools
   
 ```bash
+=> pkg install git
 => git clone https://github.com/haniefautophile-official/termux-LinuxDistro.git
+=> cd Termux-LinuxDistro
+=> bash run.sh
 => proot-distro install ubuntu
 => proot-distro login ubuntu
 => passwd root
