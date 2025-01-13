@@ -1,6 +1,6 @@
 <details open>
   <summary><strong><h2>How to Install</h2></strong></summary>
-  
+  images
  
 > Command install tools
   
@@ -29,6 +29,7 @@
 => cd /etc
 => nano bash.bashrc
 => Tambahkan di atasnya kalimat neofetch
+<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/images/ss2.jpg"><br>
 => Keluarkan termux lalu buka kembali termuxnya
 => Ketik cd ../usr/etc/ && nano bash.bashrc (Akan muncul tampilan baru untuk di edit lalu scroll sampai ke yang paling bawah)
 => Lalu masukan kode di posisi nyang paling bawah => clear cd Termux-LinuxDistro && cd proot-distro && proot-distro login ubuntu
