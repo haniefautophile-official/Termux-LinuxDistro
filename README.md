@@ -38,7 +38,7 @@
 => Ketik cd ../usr/etc/ && nano bash.bashrc (Akan muncul tampilan baru untuk di edit lalu scroll sampai ke yang paling bawah)
 => Lalu masukan kode di posisi nyang paling bawah => clear cd Termux-LinuxDistro && cd proot-distro && proot-distro login ubuntu
 ```
-<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss2.jpg">
+<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss1.jpg">
 
 ```bash
 => Setelah itu klik CTRL + X + Y Enter
