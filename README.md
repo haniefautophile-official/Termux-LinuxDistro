@@ -30,10 +30,9 @@
 => nano bash.bashrc
 => Tambahkan di atasnya kalimat neofetch
 ```
-<p align="center">
-<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro
-/images/ss2.jpg"><br>
-</p>
+
+<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss1.jpg">
+  
 ```bash
 => Keluarkan termux lalu buka kembali termuxnya
 => Ketik cd ../usr/etc/ && nano bash.bashrc (Akan muncul tampilan baru untuk di edit lalu scroll sampai ke yang paling bawah)
