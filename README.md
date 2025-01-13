@@ -29,7 +29,11 @@
 => cd /etc
 => nano bash.bashrc
 => Tambahkan di atasnya kalimat neofetch
-=> Keluarkan termux lalu masuk
+=> Keluarkan termux lalu buka kembali termuxnya
+=> Ketik cd ../usr/etc/ && nano bash.bashrc (Akan muncul tampilan baru untuk di edit lalu scroll sampai ke yang paling bawah)
+=> Lalu masukan kode di posisi nyang paling bawah => cd Termux-LinuxDistro && cd proot-distro && proot-distro login ubuntu
+=> Setelah itu klik CTRL + X + Y Enter
+=> Keluarkan lagi termuxnya lalu buka kembali dan lihat perubahan keren pada termux anda. Thanks.
 ```
 > build = menginstall depencies dan mengcompile main.c<br>
 > run = jalankan setelah perintah build<br>
