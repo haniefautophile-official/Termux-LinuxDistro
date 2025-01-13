@@ -50,23 +50,23 @@
 => Untuk masuk ke user anda ketik su autophile Enter
 Thanks.
 ```
-> proot-distro install ubuntu = Anda bisa menginstall linux distro yang lain dan ini daftar linux yang ada di dalam script:
-> Available distributions in format proot-distro alias : description:
+> proot-distro install ubuntu = Anda bisa menginstall linux distro yang lain dan ini daftar linux yang ada di dalam script:<br>
+> Available distributions in format proot-distro alias : description:<br>
 
-alpine: Alpine Linux (edge)
-archlinux: Arch Linux / Arch Linux 32 / Arch Linux ARM
-artix: Artix Linux (AArch64 only)
-chimera: Chimera Linux
-debian: Debian (bookworm)
-deepin: deepin (beige)
-fedora: Fedora 41 (64bit only)
-manjaro: Manjaro (AArch64 only)
-openkylin: openKylin (nile)
-opensuse: openSUSE (Tumbleweed)
-pardus: Pardus (yirmiuc)
-ubuntu: Ubuntu (24.04)
-void: Void Linux
-Contoh: proot-distro fedora<br>
+> alpine: Alpine Linux (edge)<br>
+> archlinux: Arch Linux / Arch Linux 32 / Arch Linux ARM<br>
+> artix: Artix Linux (AArch64 only)<br>
+> chimera: Chimera Linux<br>
+> debian: Debian (bookworm)<br>
+> deepin: deepin (beige)<br>
+> fedora: Fedora 41 (64bit only)<br>
+> manjaro: Manjaro (AArch64 only)<br>
+> openkylin: openKylin (nile)<br>
+> opensuse: openSUSE (Tumbleweed)<br>
+> pardus: Pardus (yirmiuc)<br>
+> ubuntu: Ubuntu (24.04)<br>
+> void: Void Linux<br>
+> Contoh: proot-distro fedora<br><br>
 > run = jalankan setelah perintah build<br>
 > versi 2.3 -> perbaikan bug, mengoptimalkan efisiensi
 
