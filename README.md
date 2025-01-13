@@ -31,12 +31,16 @@
 => Tambahkan di atasnya kalimat neofetch
 ```
 
-<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss1.jpg">
+<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss2.jpg">
   
 ```bash
 => Keluarkan termux lalu buka kembali termuxnya
 => Ketik cd ../usr/etc/ && nano bash.bashrc (Akan muncul tampilan baru untuk di edit lalu scroll sampai ke yang paling bawah)
 => Lalu masukan kode di posisi nyang paling bawah => clear cd Termux-LinuxDistro && cd proot-distro && proot-distro login ubuntu
+```
+<img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss2.jpg">
+
+```bash
 => Setelah itu klik CTRL + X + Y Enter
 => Keluarkan lagi termuxnya lalu buka kembali dan lihat perubahan keren pada termux anda.
 => Untuk masuk ke user anda ketik su autophile Enter
