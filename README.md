@@ -48,7 +48,7 @@
 => Setelah itu klik CTRL + X + Y Enter
 => Keluarkan lagi termuxnya lalu buka kembali dan lihat perubahan keren pada termux anda.
 => Untuk masuk ke user anda ketik su autophile Enter
-Thanks.
+
 ```
 > proot-distro install ubuntu = Anda bisa menginstall linux distro yang lain dan ini daftar linux yang ada di dalam script:<br>
 > Available distributions in format proot-distro alias : description:<br>
@@ -66,8 +66,9 @@ Thanks.
 > pardus: Pardus (yirmiuc)<br>
 > ubuntu: Ubuntu (24.04)<br>
 > void: Void Linux<br>
-> Contoh: proot-distro fedora<br><br>
-> run = jalankan setelah perintah build<br>
-> versi 2.3 -> perbaikan bug, mengoptimalkan efisiensi
+> Contoh: proot-distro install fedora<br><br>
+> useradd -U -s /bin/bash -m autophile = Ubah nama autophile dengan nama user yang anda inginkan<br>
+
 
 </details>
+Thanks
