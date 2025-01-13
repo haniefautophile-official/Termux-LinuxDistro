@@ -9,6 +9,8 @@
 => git clone https://github.com/haniefautophile-official/termux-LinuxDistro.git
 => cd Termux-LinuxDistro
 => bash run.sh
+=> cd proot-distro
+=> ./install.sh
 => proot-distro install ubuntu
 => proot-distro login ubuntu
 => passwd root
