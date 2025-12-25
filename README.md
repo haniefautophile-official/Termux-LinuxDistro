@@ -24,6 +24,7 @@
 => apt install nano neofetch sudo -y
 => visudo (Cari tulisan root ALL=(ALL:ALL) ALL)
 => Lalu tambahkan di bawahnya dengan => autophile ALL=(ALL:ALL) ALL
+Note: Nama autophile bisa di isi sesaui nama yang anda inginkan.
 ```
 <img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss3.jpg">
 
