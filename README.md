@@ -7,7 +7,7 @@
 ```bash
 => pkg install git
 => git clone https://github.com/haniefautophile-official/termux-LinuxDistro.git
-=> cd Termux-LinuxDistro
+=> cd termux-LinuxDistro
 => bash run.sh
 => cd proot-distro
 => ./install.sh
