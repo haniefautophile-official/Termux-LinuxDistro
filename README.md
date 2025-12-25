@@ -21,7 +21,8 @@
 => pwd
 => su root (Masukan password yang sudah di buat)
 => apt update && apt upgrade -y
-=> apt install nano neofetch sudo -y
+=> apt install fastfetch -y
+=> fastfetch
 => visudo (Cari tulisan root ALL=(ALL:ALL) ALL)
 => Lalu tambahkan di bawahnya dengan => autophile ALL=(ALL:ALL) ALL
 Note: Nama autophile bisa di isi sesaui nama yang anda inginkan.
