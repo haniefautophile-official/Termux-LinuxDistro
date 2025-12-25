@@ -20,10 +20,15 @@
 => cd
 => pwd
 => su root (Masukan password yang sudah di buat)
+=> apt purge packagekit -y
+=> export DEBIAN_FRONTEND=noninteractive
+=> echo 'export DEBIAN_FRONTEND=noninteractive' >> ~/.bashrc
 => apt update && apt upgrade -y
-=> apt install fastfetch -y
+=> apt install fastfetch -y && apt install sudo -y
 => fastfetch
-=> visudo (Cari tulisan root ALL=(ALL:ALL) ALL)
+=> apt install nano -y
+=> EDITOR=nano visudo
+(Cari tulisan root ALL=(ALL:ALL) ALL)
 => Lalu tambahkan di bawahnya dengan => autophile ALL=(ALL:ALL) ALL
 Note: Nama autophile bisa di isi sesaui nama yang anda inginkan.
 ```
@@ -34,7 +39,7 @@ Note: Nama autophile bisa di isi sesaui nama yang anda inginkan.
 => su autophile (Masukan password yang sudah dibuat)
 => cd /etc
 => nano bash.bashrc
-=> Tambahkan di atasnya kalimat neofetch
+=> Tambahkan di atasnya kalimat fastfetch
 ```
 
 <img src="https://github.com/haniefautophile-official/Termux-LinuxDistro/blob/main/images/ss2.jpg">
