@@ -2,7 +2,7 @@
   <summary><strong><h2>How to Install</h2></strong></summary>
   images
  
-> Command install tools
+> Command install tools Termux For Ubuntu
   
 ```bash
 => pkg install git
